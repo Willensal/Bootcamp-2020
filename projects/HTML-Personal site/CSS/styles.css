@@ -1,0 +1,19 @@
+body {
+    background-color:beige;
+}
+hr {
+    border-style: dotted none none;
+    border-color: grey ;
+    border-width: 6px;
+    width: 8%;
+}
+h1{
+    color: #66BfBF;
+}
+h1:hover{
+    color: black;
+
+}
+h3 {
+    color: #66BfBF;
+}
