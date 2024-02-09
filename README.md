@@ -6,54 +6,55 @@ Front-End Web Development
 
 * HTML 5
 
-*CSS 3
+* CSS 3
 
-*Flexbox
+* Flexbox
 
-*Grid
+* Grid
 
-*Bootstrap 5
+* Bootstrap 5
 
-*Javascript ES6
+* Javascript ES6
 
-*DOM Manipulation
+* DOM Manipulation
 
-*jQuery
+* jQuery
 
-*Bash Command Line
+* Bash Command Line
 
-*Git, GitHub and Version Control
+* Git, GitHub and Version Control
 
 Backend Web Development
-Node.js*
 
-NPM
+* Node.js
 
-Express.js
+* NPM
 
-EJS
+* Express.js
 
-REST
+* EJS
 
-APIs
+* REST
 
-Databases
+* APIs
 
-SQL
+* Databases
 
-PostgreSQL
+* SQL
 
-Authentication
+* PostgreSQL
 
-Firebase
+* Authentication
 
-React.js
+* Firebase
 
-React Hooks
+* React.js
 
-Web Design
+* React Hooks
 
-Deployment with GitHub Pages
+* Web Design
+
+* Deployment with GitHub Pages
 
 
 
