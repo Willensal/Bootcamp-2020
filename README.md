@@ -57,4 +57,12 @@ Backend Web Development
 * Deployment with GitHub Pages
 
 
+# Notes
+Inside the projects folder above, you will find all the different webb apps I created during the course and an explanation of what tools were used for each. 
+
+
+# Instructions
+To run the projects that have servers locally. You will need to run "npm i" in your terminal to install the necessary packages.
+
+
 
