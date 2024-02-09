@@ -58,7 +58,7 @@ Backend Web Development
 
 
 # Notes
-Inside the projects folder above, you will find all the different webb apps I created during the course and an explanation of what tools were used for each. 
+Inside the projects folder above, you will find all the different webb-apps I created during the course and an explanation of what tools were used for each. 
 
 
 # Instructions
