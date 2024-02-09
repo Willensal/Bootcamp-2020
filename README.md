@@ -4,7 +4,7 @@ Completed the Full-Stack Web Developement bootcamp taught by Angela Yu in 2023.
 # Skills Gained 
 Front-End Web Development
 
-*HTML 5
+* HTML 5
 
 *CSS 3
 
