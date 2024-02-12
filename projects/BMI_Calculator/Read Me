@@ -1,0 +1,4 @@
+BMI Calculator: a simple webb-app that takes the weight in pounds an height in hinches from the user and then output the Body Mass Index.
+
+To create the BMI Calculator. Basic JavaScript math operations were used, also learned how to connect a JS page to an HTML page. 
+In this project epress was introduced and the use of bodyparser as well. 
